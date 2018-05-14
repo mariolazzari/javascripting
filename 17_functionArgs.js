@@ -1,5 +1,5 @@
 // function arguments
-function math(a,b,c){
+function math(a, b, c) {
     return a += b * c;
 }
-console.log(math(53,61,67));
+console.log(math(53, 61, 67));

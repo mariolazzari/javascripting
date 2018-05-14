@@ -1,4 +1,4 @@
 // number to string
 var n = 128;
-n = n.toString();
-console.log(n);
+//n = n.toString();
+console.log(n.toString());
