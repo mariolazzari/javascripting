@@ -1,4 +1,2 @@
-// number to string
-var n = 128;
-//n = n.toString();
+const n = 128;
 console.log(n.toString());
