@@ -1,5 +1,5 @@
-// object properties
-var food = {
-    type: 'only pizza'
+const food = {
+  types: "only pizza",
 };
-console.log(food.type);
+
+console.log(food.types);
