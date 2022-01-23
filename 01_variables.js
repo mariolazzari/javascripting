@@ -1,3 +1,3 @@
 // variables
-var example = 'this is a string';
+let example = "some string";
 console.log(example);
