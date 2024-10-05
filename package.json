@@ -1,0 +1,19 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "Learn the basics of JavaScript",
+  "main": "00_introduction.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "school"
+  ],
+  "author": "Mario Lazzari",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.2"
+  }
+}
